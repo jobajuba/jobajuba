@@ -1,8 +1,12 @@
-<img src="" alt="banner" />
+<img src="https://github.com/jobajuba/jobajuba/blob/master/Jobajuba%20logo.png" height="200" width="200" alt="banner" />
 
-### Hi there and welcome to my GitHub page 👋
+### Jobajuba Digital Studio GitHub page
 
+```
+ 👋
 My name is Saloum Jobe and I am the Managing Director of Jobajuba Digital Studio Limited, United Kingdom. 
+
+------------------------------------------------------------------------------------------------------------------------
 
 Jobajuba is highly disruptive design and development agency founded in 2021. 
 
@@ -14,8 +18,7 @@ Jobajuba works with UK based businesses.
 Our products cost varies between client and the service provide. 
 Prices range between £500 - £150000 depending on the service. 
 
-1. We help our clients to better understand their business and their industry, 
-in orde to communicate what they are best at. 
+1. We help our clients to better understand their business and their industry, to communicate what they are best at. 
 2. We formulate media strategy.
 3. Creativity.
 4. More consumer insights.
@@ -23,11 +26,18 @@ in orde to communicate what they are best at.
 6. Get more results with less budget.
 7. Show them quantifiable results.
 
+
+```
+
 <p>
   <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/jobajuba?color=green&style=for-the-badge">
 </p>
 
+```
+
 ### What do I do?
+
+```
 
 <p>  
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
@@ -61,6 +71,7 @@ in orde to communicate what they are best at.
 
 ---
 
-### Github stats
+### Managing Director's Github stats
 
-<img align="center" src="" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jobajuba&theme=highcontrast)
+
