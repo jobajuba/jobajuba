@@ -54,8 +54,9 @@ Prices range between £500 - £150000 depending on the service.
 ---
 
 ### OUR PRODUCTS
+<a href="https://yostudent.com/">
 <img alt="Website" src="https://img.shields.io/website?down_color=orange&down_message=offline&label=Yostudent.com&logo=Yostudent&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fyostudent.com%2F">
-
+</a>
 ### Send me a message!
 
 - We are constantly hiring Part-Time, Full-Time and Freelancers with various skill sets and levels:
