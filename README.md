@@ -63,11 +63,11 @@ Prices range between £500 - £150000 depending on the service.
 </a>
 
 <a href="https://www.atrecruits.com/">
-<img alt="Website" src="https://img.shields.io/website?color=%23005900&down_color=orange&down_message=offline&label=ATRECRUITS.COM&logo=Yumpie&logoColor=%23FFE5EA&style=for-the-badge&up_color=green&up_message=ONLINE&url=https%3A%2F%2Fwww.atrecruits.com%2F">
+<img alt="Website" src="https://img.shields.io/website?color=%23005900&down_color=orange&down_message=offline&label=ATRECRUITS.COM&logo=Atrecruits&logoColor=%23FFE5EA&style=for-the-badge&up_color=green&up_message=ONLINE&url=https%3A%2F%2Fwww.atrecruits.com%2F">
 </a>
 
 <a href="https://alidacare.com/">
-<img alt="Website" src="https://img.shields.io/website?color=%23FFAE19&down_color=orange&down_message=offline&label=ALIDACARE.COM&logo=alidacare&logoColor=%23FFAE19&style=for-the-badge&up_color=green&up_message=ONLINE&url=https%3A%2F%2Falidacare.com%2F">
+<img alt="Website" src="https://img.shields.io/website?color=%23FFAE19&down_color=lightgray&down_message=offline&label=ALIDACARE.COM&logo=alidacare&style=for-the-badge&up_color=green&up_message=ONLINE&url=https%3A%2F%2Falidacare.com%2F">
 </a>
 
 ### Recruitment
