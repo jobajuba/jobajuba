@@ -70,6 +70,10 @@ Prices range between £500 - £150000 depending on the service.
 <img alt="Website" src="https://img.shields.io/website?color=%23FFAE19&down_color=lightgray&down_message=offline&label=ALIDACARE.COM&logo=alidacare&style=for-the-badge&up_color=green&up_message=ONLINE&url=https%3A%2F%2Falidacare.com%2F">
 </a>
 
+<a href="https://londonsecurityteam.co.uk/">
+<img alt="Website" src="https://img.shields.io/website?down_color=lightgray&down_message=offline&label=London%20Security%20Team&logo=alidacare&style=for-the-badge&up_color=green&up_message=ONLINE&url=https%3A%2F%2Flondonsecurityteam.co.uk%2F">
+</a>
+
 ### Recruitment
 
 - We are constantly hiring Part-Time, Full-Time and Freelancers with various skill sets and levels:
