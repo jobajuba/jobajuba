@@ -85,12 +85,14 @@ Prices range between £500 - £150000 depending on the service.
 
 ---
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jobajuba&repo=github-readme-stats)](https://github.com/jobajuba)
+
 ### Managing Director's Github stats for public repos (Vercel Stats Only: Not lifetime stats)
 
 [![Jobajuba: Vercel Stats](https://github-readme-stats.vercel.app/api?username=jobajuba&theme=highcontrast)](https://github.com/jobajuba)
 
 ### Top Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jobajuba&theme=highcontrast)](https://github.com/jobajuba)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jobajuba&theme=highcontrast&layout=compact)](https://github.com/jobajuba)
 
 
