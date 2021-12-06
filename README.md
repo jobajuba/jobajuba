@@ -73,7 +73,8 @@ Prices range between £500 - £150000 depending on the service.
 
 ---
 
-### Managing Director's Github stats for public repos
+### Managing Director's Github stats for public repos (Vercel Stats)
 
-![Vercel Stats](https://github-readme-stats.vercel.app/api?username=jobajuba&theme=highcontrast)
+[![Jobajuba: Vercel Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jobajuba&theme=highcontrast&layout=compact)](https://github.com/jobajuba)
+
 
