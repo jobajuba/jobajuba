@@ -75,6 +75,9 @@ Prices range between £500 - £150000 depending on the service.
 - We are constantly hiring Part-Time, Full-Time and Freelancers with various skill sets and levels:
 
 <p>
+ <a href="https://jobajuba.com/" />
+    <img alt="Website" src="https://img.shields.io/website?down_color=lightgray&down_message=offline&label=JOBAJUBA.COM&logo=alidacare&style=for-the-badge&up_color=green&up_message=ONLINE&url=https%3A%2F%2Fjobajuba.com%2F">
+  </a>
   <a href="https://twitter.com/JobajubaS">
     <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&label=Twitter&logo=twitter&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FJobajubaS">
   </a> 
