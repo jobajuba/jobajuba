@@ -91,6 +91,6 @@ Prices range between £500 - £150000 depending on the service.
 
 ### Top Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jobajuba&theme=highcontrast&layout=compact)](https://github.com/jobajuba)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jobajuba&theme=highcontrast)](https://github.com/jobajuba)
 
 
