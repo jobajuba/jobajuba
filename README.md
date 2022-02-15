@@ -34,11 +34,12 @@ Prices range between £500 - £150000 depending on the service.
 </p>
 
 ```
+
+
+```
 <p>
   $6500 AWS Credits awarded to the Yo! Student project. 
 </p>
-
-```
 
 ```
 
