@@ -20,7 +20,7 @@ Prices range between £500 - £150000 depending on the service.
 
 1. We help our clients to better understand their business and their industry, to communicate what they are best at. 
 2. We formulate media strategy.
-3. Creativity.
+3. Creative digital media.
 4. More consumer insights.
 5. Communicate what you’re best at.
 6. Get more results with less budget.
