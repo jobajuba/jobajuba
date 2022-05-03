@@ -55,6 +55,8 @@ Prices range between £500 - £150000 depending on the service.
 
 ---
 
+```
+
 ### Backend
 
 ```
@@ -64,9 +66,10 @@ Prices range between £500 - £150000 depending on the service.
   <img alt="Firebase" src="https://img.shields.io/badge/Angular-239120?logo=angular&logoColor=white&style=for-the-badge" />
 </p>
 
-
+---
 
 ### OUR PRODUCTS
+
 <a href="https://yostudent.com/">
 <img alt="Website" src="https://img.shields.io/website?down_color=green&down_message=offline&label=Yostudent.com&logo=Yostudent&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fyostudent.com%2F">
 </a>
