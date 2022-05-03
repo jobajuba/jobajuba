@@ -46,7 +46,8 @@ Prices range between £500 - £150000 depending on the service.
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
   <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=for-the-badge" /> 
   <img alt="WEB3" src="https://img.shields.io/badge/Web3-7A93DE?logo=react&logoColor=white&style=for-the-badge" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" /> 
+  <img alt="Next" src="https://img.shields.io/badge/Next-29ffc6?logo=react&logoColor=white&style=for-the-badge" />
   <img alt="Firebase" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img alt="Sass" src="https://img.shields.io/badge/Sass-83f5e5?logo=sass&logoColor=white&style=for-the-badge" />
