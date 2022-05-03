@@ -62,8 +62,8 @@ Prices range between £500 - £150000 depending on the service.
 ```
 
 <p>  
-  <img alt="AWS" src="https://img.shields.io/badge/C%23-f84b00?logo=c-sharp&logoColor=white&style=for-the-badge" />
-  <img alt="Firebase" src="https://img.shields.io/badge/Angular-239120?logo=angular&logoColor=white&style=for-the-badge" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-f84b00?logo=c-sharp&logoColor=white&style=for-the-badge" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-239120?logo=angular&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
