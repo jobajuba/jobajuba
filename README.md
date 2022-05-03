@@ -65,7 +65,6 @@ Prices range between £500 - £150000 depending on the service.
 </p>
 
 
----
 
 ### OUR PRODUCTS
 <a href="https://yostudent.com/">
