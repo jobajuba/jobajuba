@@ -73,7 +73,7 @@ Prices range between £500 - £150000 depending on the service.
 ### OUR PRODUCTS
 
 <a href="https://yostudent.com/">
-<img alt="Website" src="https://img.shields.io/website?down_color=green&down_message=offline&label=Yostudent.com&logo=Yostudent&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fyostudent.com%2F">
+<img alt="Website" src="https://img.shields.io/website?color=%23005900&down_color=orange&down_message=offline&label=YOSTUDENT.COM&logo=Yostudent&logoColor=%23green&style=for-the-badge&up_color=green&up_message=ONLINE&url=https%3A%2F%2Fwww.yostudent.com%2F">
 </a>
 
 <a href="https://yumpie.app/">
