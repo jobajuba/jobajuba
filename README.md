@@ -2,7 +2,6 @@
 
 ### Jobajuba Digital Studio GitHub page
 
-```
  👋
 
 Hello and welcome! My name is Saloum Jobe, and I am the Director of Jobajuba Digital Studio.
