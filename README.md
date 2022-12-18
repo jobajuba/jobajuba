@@ -28,7 +28,7 @@ I invite you to learn more about Jobajuba Digital Studio and our services by vis
   <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/jobajuba?color=green&style=for-the-badge">
 </p>
 <p>
-  $6500 AWS Credits awarded to the Yo! Student project. 
+  $6500 awarded to the Yumpie/YoStudent project. 
 </p>
 
 ------------------------------------------------------------------------------------------------------------------------
