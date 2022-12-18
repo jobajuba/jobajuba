@@ -35,7 +35,7 @@ I invite you to learn more about Jobajuba Digital Studio and our services by vis
 
 ```
 
-### What do I do?
+### Programming Languages
 
 ```
 
