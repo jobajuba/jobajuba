@@ -63,6 +63,8 @@ I invite you to learn more about Jobajuba Digital Studio and our services by vis
   <img alt="AWS" src="https://img.shields.io/badge/AWS-f84b00?logo=c-sharp&logoColor=white&style=for-the-badge" />
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-239120?logo=angular&logoColor=white&style=for-the-badge" />
   <img alt="AWS" src="https://img.shields.io/badge/SQL-cacaf9?logo=mysql&logoColor=white&style=for-the-badge" />
+  <img alt="AWS" src="https://img.shields.io/badge/INFURA-00caf9?logo=mysql&logoColor=white&style=for-the-badge" />
+  <img alt="AWS" src="https://img.shields.io/badge/MORALIS-4acaf9?logo=mysql&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
