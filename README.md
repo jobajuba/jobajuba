@@ -4,28 +4,26 @@
 
 ```
  👋
-My name is Saloum Jobe and I am the Managing Director of Jobajuba Digital Studio Limited, United Kingdom. 
+
+Hello and welcome! My name is Saloum Jobe, and I am the Director of Jobajuba Digital Studio.
+
+I have been working in the marketing industry for over 15 years and have had the opportunity to work with a variety of clients across different industries. At Jobajuba Digital Studio, we specialize in helping our clients achieve their marketing goals through strategic planning, creative campaigns, and data-driven decision making.
+
+I am passionate about the power of marketing to drive business growth and am committed to helping our clients succeed. Our team at Jobajuba Digital Studio is dedicated to delivering results for our clients, and we pride ourselves on our ability to create innovative and effective marketing solutions.
+
+I am excited to work with you and help your business reach its full potential through targeted marketing efforts. Thank you for considering [Marketing Company] for your marketing needs.
+
+In addition to our core services, we also offer a range of specialized services such as social media management, email marketing, and search engine optimization to help our clients reach their target audiences in the most effective way possible.
+
+We have a track record of success working with both small businesses and large corporations, and we have the experience and resources to handle projects of any size.
+
+Our team is composed of talented and experienced professionals who are dedicated to delivering the best possible results for our clients. We work closely with our clients to understand their needs and goals, and we are committed to delivering personalized and effective marketing solutions.
+
+We believe in the importance of ongoing collaboration and communication with our clients, and we make it a priority to keep our clients informed and involved throughout the entire process.
+
+I invite you to learn more about Jobajuba Digital Studio and our services by visiting our website or contacting us directly. We would be happy to answer any questions you may have and discuss how we can help your business succeed through targeted marketing efforts.
 
 ------------------------------------------------------------------------------------------------------------------------
-
-Jobajuba is highly disruptive design and development agency founded in 2021. 
-
-The company provides a range of services including games development, 
-creative content creation, consumer insights, digital marketing strategies, 
-web and application design and optimisation and web security. 
-
-Jobajuba works with UK based businesses. 
-Our products cost varies between client and the service provide. 
-Prices range between £500 - £150000 depending on the service. 
-
-1. We help our clients to better understand their business and their industry, to communicate what they are best at. 
-2. We formulate media strategy.
-3. Creative digital media.
-4. More consumer insights.
-5. Communicate what you’re best at.
-6. Get more results with less budget.
-7. Demonstrate quantifiable results.
-
 
 ```
 
