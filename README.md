@@ -69,7 +69,7 @@ I invite you to learn more about Jobajuba Digital Studio and our services by vis
 
 ---
 
-### OUR PRODUCTS
+### Projects
 
 <a href="https://yostudent.com/">
 <img alt="Website" src="https://img.shields.io/website?color=%23005900&down_color=orange&down_message=offline&label=YOSTUDENT.COM&logo=Yostudent&logoColor=%23green&style=for-the-badge&up_color=green&up_message=ONLINE&url=https%3A%2F%2Fwww.yostudent.com%2F">
