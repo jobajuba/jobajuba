@@ -45,8 +45,6 @@ I invite you to learn more about Jobajuba Digital Studio and our services by vis
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-  <img alt="Solidity" src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white&style=for-the-badge" />
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" />
 
   <br />
   <strong>Web Development:</strong>
@@ -60,9 +58,6 @@ I invite you to learn more about Jobajuba Digital Studio and our services by vis
   <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?logo=ruby-on-rails&logoColor=white&style=for-the-badge" /> 
   <img alt="AWS" src="https://img.shields.io/badge/AWS-f84b00?logo=c-sharp&logoColor=white&style=for-the-badge" />
   <img alt="SQL" src="https://img.shields.io/badge/SQL-cacaf9?logo=mysql&logoColor=white&style=for-the-badge" />
-  <img alt="INFURA" src="https://img.shields.io/badge/INFURA-00caf9?logo=infura&logoColor=white&style=for-the-badge" />
-  <img alt="MORALIS" src="https://img.shields.io/badge/MORALIS-40da49?logo=moralis&logoColor=white&style=for-the-badge" /> 
-  <img alt="SANITY" src="https://img.shields.io/badge/SANITY-b4a7d6?logo=sanity&logoColor=white&style=for-the-badge" />
 
   <br />
   <strong>Design and Multimedia:</strong>
@@ -71,12 +66,22 @@ I invite you to learn more about Jobajuba Digital Studio and our services by vis
   <img alt="After Effects" src="https://img.shields.io/badge/After%20Effects-9999FF?logo=adobe-after-effects&logoColor=white&style=for-the-badge" />
   <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?logo=adobe-xd&logoColor=white&style=for-the-badge" />
   <img alt="Premiere Pro" src="https://img.shields.io/badge/Premiere%20Pro-9999FF?logo=adobe-premiere-pro&logoColor=white&style=for-the-badge" />
+  <img alt="DaVinci Resolve" src="https://img.shields.io/badge/DaVinci%20Resolve-0E71D5?logo=davinci-resolve&logoColor=white&style=for-the-badge" />
+  <img alt="Final Cut Pro" src="https://img.shields.io/badge/Final%20Cut%20Pro-FF6E4A?logo=final-cut-pro&logoColor=white&style=for-the-badge" />
+  <img alt="Maya" src="https://img.shields.io/badge/Maya-313131?logo=autodesk&logoColor=white&style=for-the-badge" />
+  <img alt="Cinema 4D" src="https://img.shields.io/badge/Cinema%204D-011A6A?logo=cinema-4d&logoColor=white&style=for-the-badge" />
 
   <br />
-  <strong>Ethereum and Blockchain:</strong>
-  <br />
+  <strong>Blockchain:</strong>
+  <br /> 
+  <img alt="Solidity" src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white&style=for-the-badge" />
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" />
   <img alt="WEB3" src="https://img.shields.io/badge/Web3-7A93DE?logo=react&logoColor=white&style=for-the-badge" />
   <img alt="MetaMask" src="https://img.shields.io/badge/MetaMask-E2761B?logo=metamask&logoColor=white&style=for-the-badge" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-7bf6c3?logo=metamask&logoColor=white&style=for-the-badge" /> 
+  <img alt="INFURA" src="https://img.shields.io/badge/INFURA-00caf9?logo=infura&logoColor=white&style=for-the-badge" />
+  <img alt="MORALIS" src="https://img.shields.io/badge/MORALIS-40da49?logo=moralis&logoColor=white&style=for-the-badge" /> 
+  <img alt="SANITY" src="https://img.shields.io/badge/SANITY-b4a7d6?logo=sanity&logoColor=white&style=for-the-badge" />
 
   <br />
   <strong>Frameworks and Tools:</strong>
