@@ -76,7 +76,7 @@ I invite you to learn more about Jobajuba Digital Studio and our services by vis
   <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" />
   <img alt="WEB3" src="https://img.shields.io/badge/Web3-7A93DE?logo=react&logoColor=white&style=for-the-badge" />
   <img alt="MetaMask" src="https://img.shields.io/badge/MetaMask-E2761B?logo=metamask&logoColor=white&style=for-the-badge" />
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-7bf6c3?logo=metamask&logoColor=white&style=for-the-badge" /> 
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-7bf6c3?logo=aws&logoColor=white&style=for-the-badge" /> 
   <img alt="INFURA" src="https://img.shields.io/badge/INFURA-00caf9?logo=infura&logoColor=white&style=for-the-badge" />
   <img alt="MORALIS" src="https://img.shields.io/badge/MORALIS-40da49?logo=moralis&logoColor=white&style=for-the-badge" /> 
   <img alt="SANITY" src="https://img.shields.io/badge/SANITY-b4a7d6?logo=sanity&logoColor=white&style=for-the-badge" />
