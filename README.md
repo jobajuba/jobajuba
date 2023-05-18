@@ -88,7 +88,7 @@ I invite you to learn more about Jobajuba Digital Studio and our services by vis
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" />
   <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge" />
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" />
-  <img alt="Next" src="https://img.shields.io/badge/Next-430592?logo=react&logoColor=white&style=for-the-badge" />
+  <img alt="Next" src="https://img.shields.io/badge/Next.js-430592?logo=react&logoColor=white&style=for-the-badge" />
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge" />
   <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?logo=ruby-on-rails&logoColor=white&style=for-the-badge" /> 
   <img alt="SQL" src="https://img.shields.io/badge/SQL-cacaf9?logo=mysql&logoColor=white&style=for-the-badge" />
