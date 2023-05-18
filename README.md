@@ -33,7 +33,6 @@ I invite you to learn more about Jobajuba Digital Studio and our services by vis
 
 ------------------------------------------------------------------------------------------------------------------------
 
-```
 <p>
  
   <br />
@@ -112,7 +111,6 @@ I invite you to learn more about Jobajuba Digital Studio and our services by vis
   </p>
 </p>
 
-```
 ---
 
 ### Projects
