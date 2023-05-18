@@ -60,7 +60,8 @@ I invite you to learn more about Jobajuba Digital Studio and our services by vis
   <a href="https://stackoverflow.com/users/your-stackoverflow-id">
     <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stackoverflow&logoColor=white&style=for-the-badge" width="32" height="32" />
   </a>
-
+ 
+  <br />
   <strong>Programming Languages:</strong>
   <br />
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
