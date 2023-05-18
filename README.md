@@ -98,17 +98,18 @@ I invite you to learn more about Jobajuba Digital Studio and our services by vis
   <strong>Socials:</strong>
   <br />
   <a href="https://jobajuba.com/">
-   <img alt="Twitter" src="https://github.com/jobajuba/jobajuba/raw/master/Jobajuba%20logo.png" />
+    <img alt="Jobajuba Logo" src="https://github.com/jobajuba/jobajuba/raw/master/Jobajuba%20logo.png" width="32" height="32" />
   </a>
   <a href="https://twitter.com/jobajuba">
-   <img alt="Twitter" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
+    <img alt="Twitter" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
   </a>
   <a href="https://www.facebook.com/JobajubaDigital">
-   <img alt="Facebook" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" />
+    <img alt="Facebook" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
   </a>
   <a href="https://www.linkedin.com/in/jobajuba/">
-   <img alt="LinkedIn" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+    <img alt="LinkedIn" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>
+
 </p>
 
 ---
