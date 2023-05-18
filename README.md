@@ -45,20 +45,22 @@ I invite you to learn more about Jobajuba Digital Studio and our services by vis
   <strong>Socials:</strong>
   <br />
   <a href="https://jobajuba.com/">
-    <img alt="Jobajuba Logo" src="https://github.com/jobajuba/jobajuba/raw/master/Jobajuba%20logo.png" width="32" height="32" />
+    <img alt="Jobajuba Logo" src="https://github.com/jobajuba/jobajuba/raw/master/Jobajuba%20logo.png" width="32" height="32" style="margin-right: 8px;" />
   </a>
   <a href="https://twitter.com/jobajuba">
-    <img alt="Twitter" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-    <img alt="Twitter" src="https://img.shields.io/github/followers/jobajuba?style=for-the-badge" /> 
+    <img alt="Twitter" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" style="margin-right: 8px;" />
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/jobajubadigital?style=social">
   </a>
   <a href="https://www.facebook.com/JobajubaDigital">
-    <img alt="Facebook" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
+    <img alt="Facebook" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" style="margin-right: 8px;" />
   </a>
   <a href="https://www.linkedin.com/in/jobajuba/">
-    <img alt="LinkedIn" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+    <img alt="LinkedIn" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="margin-right: 8px;" />
   </a>
- 
+  <a href="https://stackoverflow.com/users/your-stackoverflow-id">
+    <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stackoverflow&logoColor=white&style=for-the-badge" width="32" height="32" />
+  </a>
+
   <strong>Programming Languages:</strong>
   <br />
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
