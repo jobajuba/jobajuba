@@ -59,7 +59,7 @@ I invite you to learn more about Jobajuba Digital Studio and our services by vis
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge" />
   <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?logo=ruby-on-rails&logoColor=white&style=for-the-badge" /> 
   <img alt="AWS" src="https://img.shields.io/badge/AWS-f84b00?logo=c-sharp&logoColor=white&style=for-the-badge" />
-  <img alt="SQP" src="https://img.shields.io/badge/SQL-cacaf9?logo=mysql&logoColor=white&style=for-the-badge" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-cacaf9?logo=mysql&logoColor=white&style=for-the-badge" />
   <img alt="INFURA" src="https://img.shields.io/badge/INFURA-00caf9?logo=mysql&logoColor=white&style=for-the-badge" />
   <img alt="MORALIS" src="https://img.shields.io/badge/MORALIS-40da49?logo=mysql&logoColor=white&style=for-the-badge" /> 
   <img alt="SANITY" src="https://img.shields.io/badge/SANITY-b4a7d6?logo=mysql&logoColor=white&style=for-the-badge" />
