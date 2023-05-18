@@ -5,7 +5,7 @@
  👋  
  
 <img alt="Twitter" src="https://img.shields.io/github/followers/jobajuba?style=for-the-badge" /> 
-<img alt="Twitter" src=" https://img.shields.io/twitter/follow/jobajubadigital?style=social" /> 
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/jobajubadigital?style=social">
 
 
 Hello and welcome! My name is Saloum Jobe, and I am the Director of Jobajuba Digital Studio.
