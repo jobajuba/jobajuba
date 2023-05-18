@@ -45,7 +45,10 @@ I invite you to learn more about Jobajuba Digital Studio and our services by vis
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" />
+  <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge" />
+ 
   <br />
   <strong>Web Development:</strong>
   <br />
@@ -53,11 +56,6 @@ I invite you to learn more about Jobajuba Digital Studio and our services by vis
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img alt="Sass" src="https://img.shields.io/badge/Sass-83f5e5?logo=sass&logoColor=white&style=for-the-badge" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
-  <img alt="Next" src="https://img.shields.io/badge/Next-430592?logo=react&logoColor=white&style=for-the-badge" />
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge" />
-  <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?logo=ruby-on-rails&logoColor=white&style=for-the-badge" /> 
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-f84b00?logo=c-sharp&logoColor=white&style=for-the-badge" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-cacaf9?logo=mysql&logoColor=white&style=for-the-badge" />
 
   <br />
   <strong>Design and Multimedia:</strong>
@@ -82,12 +80,35 @@ I invite you to learn more about Jobajuba Digital Studio and our services by vis
   <img alt="INFURA" src="https://img.shields.io/badge/INFURA-00caf9?logo=infura&logoColor=white&style=for-the-badge" />
   <img alt="MORALIS" src="https://img.shields.io/badge/MORALIS-40da49?logo=moralis&logoColor=white&style=for-the-badge" /> 
   <img alt="SANITY" src="https://img.shields.io/badge/SANITY-b4a7d6?logo=sanity&logoColor=white&style=for-the-badge" />
-
+ 
   <br />
   <strong>Frameworks and Tools:</strong>
   <br />
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white&style=for-the-badge" />
-
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" />
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge" />
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" />
+  <img alt="Next" src="https://img.shields.io/badge/Next-430592?logo=react&logoColor=white&style=for-the-badge" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge" />
+  <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?logo=ruby-on-rails&logoColor=white&style=for-the-badge" /> 
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-cacaf9?logo=mysql&logoColor=white&style=for-the-badge" />
+  </p>
+  
+  <br />
+  <strong>Socials:</strong>
+  <br />
+  <a href="https://jobajuba.com/">
+   <img alt="Twitter" src="https://github.com/jobajuba/jobajuba/raw/master/Jobajuba%20logo.png" />
+  </a>
+  <a href="https://twitter.com/jobajuba">
+   <img alt="Twitter" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
+  </a>
+  <a href="https://www.facebook.com/JobajubaDigital">
+   <img alt="Facebook" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/jobajuba/">
+   <img alt="LinkedIn" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+  </a>
 </p>
 
 ---
