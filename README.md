@@ -3,32 +3,6 @@
 ### Jobajuba Digital Studio GitHub page
 
  👋  
- 
-<img alt="Twitter" src="https://img.shields.io/github/followers/jobajuba?style=for-the-badge" /> 
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/jobajubadigital?style=social">
-
-<p> 
-  <br />
-  <strong>Website:</strong>
-  <br />
-  <a href="https://jobajuba.com/">
-    <img alt="Jobajuba Logo" src="https://github.com/jobajuba/jobajuba/raw/master/Jobajuba%20logo.png" width="32" height="32" />
-  </a>
-    
-  <br />
-  <strong>Socials:</strong>
-  <br />
-  <a href="https://twitter.com/jobajuba">
-    <img alt="Twitter" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.facebook.com/JobajubaDigital">
-    <img alt="Facebook" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.linkedin.com/in/jobajuba/">
-    <img alt="LinkedIn" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-  </a>
-</p> 
-
 
 Hello and welcome! My name is Saloum Jobe, and I am the Director of Jobajuba Digital Studio.
 
@@ -65,7 +39,26 @@ I invite you to learn more about Jobajuba Digital Studio and our services by vis
 
 ```
 
-<p>  
+<p>
+ 
+  <br />
+  <strong>Socials:</strong>
+  <br />
+  <a href="https://jobajuba.com/">
+    <img alt="Jobajuba Logo" src="https://github.com/jobajuba/jobajuba/raw/master/Jobajuba%20logo.png" width="32" height="32" />
+  </a>
+  <a href="https://twitter.com/jobajuba">
+    <img alt="Twitter" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+    <img alt="Twitter" src="https://img.shields.io/github/followers/jobajuba?style=for-the-badge" /> 
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/jobajubadigital?style=social">
+  </a>
+  <a href="https://www.facebook.com/JobajubaDigital">
+    <img alt="Facebook" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/jobajuba/">
+    <img alt="LinkedIn" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a>
+ 
   <strong>Programming Languages:</strong>
   <br />
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
