@@ -2,7 +2,11 @@
 
 ### Jobajuba Digital Studio GitHub page
 
- 👋
+ 👋  
+ 
+<img alt="Twitter" src="https://img.shields.io/github/followers/jobajuba?style=for-the-badge" /> 
+<img alt="Twitter" src=" https://img.shields.io/twitter/follow/jobajubadigital?style=social" /> 
+
 
 Hello and welcome! My name is Saloum Jobe, and I am the Director of Jobajuba Digital Studio.
 
@@ -100,7 +104,7 @@ I invite you to learn more about Jobajuba Digital Studio and our services by vis
   <a href="https://jobajuba.com/">
     <img alt="Jobajuba Logo" src="https://github.com/jobajuba/jobajuba/raw/master/Jobajuba%20logo.png" width="32" height="32" />
   </a>
-  
+    
   <br />
   <strong>Socials:</strong>
   <br />
