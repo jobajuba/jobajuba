@@ -95,11 +95,15 @@ I invite you to learn more about Jobajuba Digital Studio and our services by vis
   </p>
   
   <br />
-  <strong>Socials:</strong>
+  <strong>Website:</strong>
   <br />
   <a href="https://jobajuba.com/">
     <img alt="Jobajuba Logo" src="https://github.com/jobajuba/jobajuba/raw/master/Jobajuba%20logo.png" width="32" height="32" />
   </a>
+  
+  <br />
+  <strong>Socials:</strong>
+  <br />
   <a href="https://twitter.com/jobajuba">
     <img alt="Twitter" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
   </a>
