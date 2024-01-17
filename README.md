@@ -2,6 +2,8 @@
 
 ### Jobajuba Digital Studio GitHub page
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=jobajuba)](https://github.com/ryo-ma/github-profile-trophy)
+
  👋  
 
 Hello and welcome! My name is Saloum Jobe, and I am the Director of Jobajuba Digital Studio.
