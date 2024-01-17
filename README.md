@@ -1,14 +1,10 @@
-<img src="https://github.com/jobajuba/jobajuba/blob/master/Jobajuba%20logo.png" height="200" width="200" alt="banner" />
+------------------------------------------------------------------------------------------------------------------------
 
-### Jobajuba Digital Studio GitHub page
+ <h2>👋 Hello and welcome! My name is Saloum Jobe, welcome to my page.</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jobajuba)](https://github.com/ryo-ma/github-profile-trophy)
 
- 👋  
 
-Hello and welcome! My name is Saloum Jobe, and I am the Director of Jobajuba Digital Studio.
-
-I have been working in the marketing industry for over 15 years and have had the opportunity to work with a variety of clients across different industries. At Jobajuba Digital Studio, we specialize in helping our clients achieve their marketing goals through strategic planning, creative campaigns, and data-driven decision making.
+I have been working in the marketing industry for over 15 years and have had the opportunity to work with a variety of clients across different industries. At Jobajuba Digital Studio, specilise in helping  clients achieve their marketing goals through strategic planning, creative campaigns, and data-driven decision making.
 
 I am passionate about the power of marketing to drive business growth and am committed to helping our clients succeed. Our team at Jobajuba Digital Studio is dedicated to delivering results for our clients, and we pride ourselves on our ability to create innovative and effective marketing solutions.
 
@@ -27,16 +23,6 @@ I invite you to learn more about Jobajuba Digital Studio and our services by vis
 ------------------------------------------------------------------------------------------------------------------------
 
 <p>
-  <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/jobajuba?color=green&style=for-the-badge">
-</p>
-<p>
-  $6500 awarded to the Yumpie/YoStudent project. 
-</p>
-
-------------------------------------------------------------------------------------------------------------------------
-
-<p>
- 
   <br />
   <strong>Socials:</strong>
   <br /> 
@@ -113,7 +99,15 @@ I invite you to learn more about Jobajuba Digital Studio and our services by vis
   </p>
 </p>
 
----
+------------------------------------------------------------------------------------------------------------------------
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jobajuba)](https://github.com/ryo-ma/github-profile-trophy)
+
+------------------------------------------------------------------------------------------------------------------------
+
+<h2>
+  $6500 awarded to the Yumpie/YoStudent virtual learning platform project. 
+</h2>
 
 ### Projects
 
@@ -123,18 +117,6 @@ I invite you to learn more about Jobajuba Digital Studio and our services by vis
 
 <a href="https://yumpie.app/">
 <img alt="Website" src="https://img.shields.io/website?color=%23CC99CC&down_color=orange&down_message=offline&label=YUMPIE.COM&logo=Yumpie&logoColor=%23green&style=for-the-badge&up_color=green&up_message=ONLINE&url=https%3A%2F%2Fyumpie.app%2F">
-</a>
-
-<a href="https://www.atrecruits.com/">
-<img alt="Website" src="https://img.shields.io/website?color=%23005900&down_color=orange&down_message=offline&label=ATRECRUITS.COM&logo=Atrecruits&logoColor=%23green&style=for-the-badge&up_color=green&up_message=ONLINE&url=https%3A%2F%2Fwww.atrecruits.com%2F">
-</a>
-
-<a href="https://alidacare.com/">
-<img alt="Website" src="https://img.shields.io/website?color=%23FFAE19&down_color=lightgray&down_message=offline&label=ALIDACARE.COM&logo=alidacare&style=for-the-badge&up_color=green&up_message=ONLINE&url=https%3A%2F%2Falidacare.com%2F">
-</a>
-
-<a href="https://londonsecurityteam.co.uk/">
-<img alt="Website" src="https://img.shields.io/website?down_color=lightgray&down_message=offline&label=London%20Security%20Team&logo=alidacare&style=for-the-badge&up_color=green&up_message=ONLINE&url=https%3A%2F%2Flondonsecurityteam.co.uk%2F">
 </a>
 
 ### Recruitment
@@ -155,12 +137,6 @@ I invite you to learn more about Jobajuba Digital Studio and our services by vis
 
 ---
 
-### Managing Director's Github stats for public repos (Vercel Stats Only: Not lifetime stats)
-
 [![Jobajuba: Vercel Stats](https://github-readme-stats.vercel.app/api?username=jobajuba&theme=highcontrast)](https://github.com/jobajuba)
-
-### Top Languages
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jobajuba&theme=highcontrast&layout=compact)](https://github.com/jobajuba)
 
 
