@@ -54,7 +54,7 @@ I invite you to learn more about Jobajuba Digital Studio and our services by vis
     <img alt="LinkedIn" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="margin-right: 8px;" />
   </a>
   <a href="https://stackoverflow.com/users/11564766/jobajuba">
-    <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stackoverflow&logoColor=white&style=for-the-badge" width="32" height="32" />
+    <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stackoverflow&logoColor=white&style=for-the-badge" width="100" height="32" />
   </a>
  
   <br />
