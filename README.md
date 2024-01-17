@@ -2,8 +2,6 @@
 
  <h2>👋 Hello and welcome! My name is Saloum Jobe, welcome to my page.</h2>
 
-
-
 I have been working in the marketing industry for over 15 years and have had the opportunity to work with a variety of clients across different industries. At Jobajuba Digital Studio, specilise in helping  clients achieve their marketing goals through strategic planning, creative campaigns, and data-driven decision making.
 
 I am passionate about the power of marketing to drive business growth and am committed to helping our clients succeed. Our team at Jobajuba Digital Studio is dedicated to delivering results for our clients, and we pride ourselves on our ability to create innovative and effective marketing solutions.
@@ -23,29 +21,35 @@ I invite you to learn more about Jobajuba Digital Studio and our services by vis
 ------------------------------------------------------------------------------------------------------------------------
 
 <p>
-  <br />
   <strong>Socials:</strong>
-  <br /> 
+  <br /> <br />
   <a href="https://twitter.com/jobajuba">   
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/jobajuba?style=social">
-    <img alt="Twitter" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" style="margin-right: 8px;" />
+    <img alt="Twitter" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="64" height="64" style="margin-right: 8px;" />
   </a>
   <a href="https://jobajuba.com/">
-    <img alt="Jobajuba Logo" src="https://github.com/jobajuba/jobajuba/raw/master/Jobajuba%20logo.png" width="32" height="32" style="margin-right: 8px;" />
+    <img alt="Jobajuba Logo" src="https://github.com/jobajuba/jobajuba/raw/master/Jobajuba%20logo.png" width="64" height="64" style="margin-right: 8px;" />
   </a>
   <a href="https://www.facebook.com/JobajubaDigital">
-    <img alt="Facebook" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" style="margin-right: 8px;" />
+    <img alt="Facebook" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="64" height="64" style="margin-right: 8px;" />
   </a>
   <a href="https://www.linkedin.com/in/jobajuba/">
-    <img alt="LinkedIn" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="margin-right: 8px;" />
+    <img alt="LinkedIn" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="64" height="64" style="margin-right: 8px;" />
   </a>
   <a href="https://stackoverflow.com/users/11564766/jobajuba">
-    <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stackoverflow&logoColor=white&style=for-the-badge" width="100" height="32" />
+    <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stackoverflow&logoColor=white&style=for-the-badge" width="192" height="64" />
   </a>
  
-  <br />
+  ------------------------------------------------------------------------------------------------------------------------
+  
+  <strong>Games Design and Development (Serious Games, Gamification, Casual Games) :</strong>
+  <br /><br />
+  <img alt="Unity3D" src="https://img.shields.io/badge/Unity3D-000000?logo=autodesk&logoColor=white&style=for-the-badge" />
+  <img alt="Unreal Engine 5" src="https://img.shields.io/badge/Unreal%20Engine%205-021A6AA?logo=cinema-4d&logoColor=white&style=for-the-badge" />
+
+  ------------------------------------------------------------------------------------------------------------------------
+  
   <strong>Programming Languages:</strong>
-  <br />
+  <br /><br />
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
@@ -53,17 +57,19 @@ I invite you to learn more about Jobajuba Digital Studio and our services by vis
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" />
   <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge" />
  
-  <br />
+  ------------------------------------------------------------------------------------------------------------------------
+  
   <strong>Web Development:</strong>
-  <br />
+  <br /><br />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img alt="Sass" src="https://img.shields.io/badge/Sass-83f5e5?logo=sass&logoColor=white&style=for-the-badge" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
 
-  <br />
+  ------------------------------------------------------------------------------------------------------------------------
+  
   <strong>Design and Multimedia:</strong>
-  <br />
+  <br /><br />
   <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=for-the-badge" />
   <img alt="After Effects" src="https://img.shields.io/badge/After%20Effects-9999FF?logo=adobe-after-effects&logoColor=white&style=for-the-badge" />
   <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?logo=adobe-xd&logoColor=white&style=for-the-badge" />
@@ -72,10 +78,11 @@ I invite you to learn more about Jobajuba Digital Studio and our services by vis
   <img alt="Final Cut Pro" src="https://img.shields.io/badge/Final%20Cut%20Pro-FF6E4A?logo=final-cut-pro&logoColor=white&style=for-the-badge" />
   <img alt="Maya" src="https://img.shields.io/badge/Maya-313131?logo=autodesk&logoColor=white&style=for-the-badge" />
   <img alt="Cinema 4D" src="https://img.shields.io/badge/Cinema%204D-011A6A?logo=cinema-4d&logoColor=white&style=for-the-badge" />
-
-  <br />
+  
+  ------------------------------------------------------------------------------------------------------------------------
+  
   <strong>Blockchain:</strong>
-  <br /> 
+  <br /> <br />
   <img alt="Solidity" src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white&style=for-the-badge" />
   <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" />
   <img alt="WEB3" src="https://img.shields.io/badge/Web3-7A93DE?logo=react&logoColor=white&style=for-the-badge" />
@@ -85,9 +92,10 @@ I invite you to learn more about Jobajuba Digital Studio and our services by vis
   <img alt="MORALIS" src="https://img.shields.io/badge/MORALIS-40da49?logo=moralis&logoColor=white&style=for-the-badge" /> 
   <img alt="SANITY" src="https://img.shields.io/badge/SANITY-b4a7d6?logo=sanity&logoColor=white&style=for-the-badge" />
  
-  <br />
+  ------------------------------------------------------------------------------------------------------------------------
+  
   <strong>Frameworks and Tools:</strong>
-  <br />
+  <br /><br />
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white&style=for-the-badge" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" />
   <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge" />
@@ -101,15 +109,14 @@ I invite you to learn more about Jobajuba Digital Studio and our services by vis
 
 ------------------------------------------------------------------------------------------------------------------------
 
+<strong>Stats:</strong>
+<br />  
+[![Jobajuba: Vercel Stats](https://github-readme-stats.vercel.app/api?username=jobajuba&theme=highcontrast)](https://github.com/jobajuba)
 [![trophy](https://github-profile-trophy.vercel.app/?username=jobajuba)](https://github.com/ryo-ma/github-profile-trophy)
 
 ------------------------------------------------------------------------------------------------------------------------
 
-<h2>
-  $6500 awarded to the Yumpie/YoStudent virtual learning platform project. 
-</h2>
-
-### Projects
+<strong>Long Term Projects</strong>
 
 <a href="https://yostudent.com/">
 <img alt="Website" src="https://img.shields.io/website?color=%23005900&down_color=orange&down_message=offline&label=YOSTUDENT.COM&logo=Yostudent&logoColor=%23green&style=for-the-badge&up_color=green&up_message=ONLINE&url=https%3A%2F%2Fwww.yostudent.com%2F">
@@ -119,7 +126,7 @@ I invite you to learn more about Jobajuba Digital Studio and our services by vis
 <img alt="Website" src="https://img.shields.io/website?color=%23CC99CC&down_color=orange&down_message=offline&label=YUMPIE.COM&logo=Yumpie&logoColor=%23green&style=for-the-badge&up_color=green&up_message=ONLINE&url=https%3A%2F%2Fyumpie.app%2F">
 </a>
 
-### Recruitment
+<strong>Recruitment</strong>
 
 - We are constantly hiring Part-Time, Full-Time and Freelancers with various skill sets and levels:
 
@@ -137,6 +144,6 @@ I invite you to learn more about Jobajuba Digital Studio and our services by vis
 
 ---
 
-[![Jobajuba: Vercel Stats](https://github-readme-stats.vercel.app/api?username=jobajuba&theme=highcontrast)](https://github.com/jobajuba)
+
 
 
