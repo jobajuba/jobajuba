@@ -1,6 +1,6 @@
 ------------------------------------------------------------------------------------------------------------------------
 
- <h2>👋 Hello and welcome! My name is Saloum Jobe, welcome to my page.</h2>
+ <h2>👋 Hello and welcome! My name is Saloum Jobe, welcome to Jobajuba Digital Studio.</h2>
 
 I have been working in the marketing industry for over 15 years and have had the opportunity to work with a variety of clients across different industries. At Jobajuba Digital Studio, specilise in helping  clients achieve their marketing goals through strategic planning, creative campaigns, and data-driven decision making.
 
