@@ -113,8 +113,11 @@ I invite you to learn more about Jobajuba Digital Studio and our services by vis
 
 <strong>Stats:</strong>
 <br />  
-[![Jobajuba: Vercel Stats](https://github-readme-stats.vercel.app/api?username=jobajuba&theme=highcontrast)](https://github.com/jobajuba)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jobajuba&theme=highcontrast&show_icons=true&locale=en&layout=compact" alt="jobajuba" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jobajuba&theme=highcontrast&show_icons=true&locale=en" alt="jobajuba" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jobajuba&theme=highcontrast&" alt="jobajuba" /></p>
 ------------------------------------------------------------------------------------------------------------------------
 
 <strong>Long Term Projects</strong>
