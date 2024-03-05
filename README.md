@@ -163,12 +163,16 @@ I invite you to learn more about Jobajuba Digital Studio and our services by vis
 <strong>Long Term Projects</strong>
 
 <a href="https://yostudent.com/">
-<img alt="Website" src="https://img.shields.io/website?color=%23005900&down_color=orange&down_message=offline&label=YOSTUDENT&logo=Yostudent&logoColor=%23green&style=for-the-badge&up_color=green&up_message=ONLINE&url=https%3A%2F%2Fwww.yostudent.com%2F">
+<img alt="Yostudent" src="https://img.shields.io/website?color=%23005900&down_color=orange&down_message=offline&label=YOSTUDENT.COM&logo=Yostudent&logoColor=%23green&style=for-the-badge&up_color=green&up_message=ONLINE&url=https%3A%2F%2Fwww.yostudent.com%2F">
 </a>
 
 <a href="https://yumpie.app/">
-<img alt="Website" src="https://img.shields.io/website?color=%23CC99CC&down_color=orange&down_message=offline&label=YUMPIE&logo=Yumpie&logoColor=%23green&style=for-the-badge&up_color=green&up_message=ONLINE&url=https%3A%2F%2Fyumpie.app%2F">
+<img alt="Yumpie" src="https://img.shields.io/website?color=%23CC99CC&down_color=orange&down_message=offline&label=YUMPIE.APP&logo=Yumpie&logoColor=%23green&style=for-the-badge&up_color=green&up_message=ONLINE&url=https%3A%2F%2Fyumpie.app%2F">
 </a>
+
+![Yostudent](https://github.com/jobajuba/yostudent-teamstream-vle/assets/22089733/45caa88b-eb85-4861-bcc5-dbfde5da2763)
+
+![Yostudent VLE](https://github.com/jobajuba/yostudent-teamstream-vle/assets/22089733/587170db-5310-4a55-8a45-2735e96aa81a)
 
 <strong>Recruitment</strong>
 
