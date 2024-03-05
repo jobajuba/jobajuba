@@ -1,5 +1,4 @@
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jobajuba)](https://github.com/ryo-ma/github-profile-trophy)
 ------------------------------------------------------------------------------------------------------------------------
 
  <h2>👋 Hello and welcome! My name is Saloum Jobe, welcome to Jobajuba Digital Studio.</h2>
@@ -22,9 +21,22 @@ I invite you to learn more about Jobajuba Digital Studio and our services by vis
 
 ------------------------------------------------------------------------------------------------------------------------
 
+<strong>Stats</strong>
+<br />  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jobajuba&theme=highcontrast&show_icons=true&locale=en&layout=compact" alt="jobajuba" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jobajuba&theme=highcontrast&show_icons=true&locale=en" alt="jobajuba" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jobajuba&theme=highcontrast&" alt="jobajuba" /></p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jobajuba)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+------------------------------------------------------------------------------------------------------------------------
+
 <p>
   <strong>Socials:</strong>
-  <br /> <br />
+  <br />
   <a href="https://twitter.com/jobajuba">   
     <img alt="Twitter" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="64" height="64" style="margin-right: 8px;" />
   </a>
@@ -44,34 +56,98 @@ I invite you to learn more about Jobajuba Digital Studio and our services by vis
   ------------------------------------------------------------------------------------------------------------------------
   
   <strong>Games Design and Development (Serious Games, Gamification, Casual Games) :</strong>
-  <br /><br />
+  <br />
   <img alt="Unity3D" src="https://img.shields.io/badge/Unity3D-000000?logo=autodesk&logoColor=white&style=for-the-badge" />
   <img alt="Unreal Engine 5" src="https://img.shields.io/badge/Unreal%20Engine%205-021A6AA?logo=cinema-4d&logoColor=white&style=for-the-badge" />
-
+  
   ------------------------------------------------------------------------------------------------------------------------
   
-  <strong>Programming Languages:</strong>
-  <br /><br />
-  <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" />
-  <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge" />
- 
-  ------------------------------------------------------------------------------------------------------------------------
-  
-  <strong>Web Development:</strong>
-  <br /><br />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-  <img alt="Sass" src="https://img.shields.io/badge/Sass-83f5e5?logo=sass&logoColor=white&style=for-the-badge" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+  <strong>Frameworks and Libraries</strong>
+<br /> 
+<img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white&style=for-the-badge" />
+<img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge" />
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-430592?logo=react&logoColor=white&style=for-the-badge" />
+<img alt="React.js" src="https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" />
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+<img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge" />
+<img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
+<img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge" />
+<img alt="C#" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
+<img alt="SQL" src="https://img.shields.io/badge/SQL-003B57?logo=database&logoColor=white&style=for-the-badge" />
 
-  ------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
+   
+ <strong>Backend Frameworks</strong>
+<br />
+<img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" />
+<img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?logo=ruby-on-rails&logoColor=white&style=for-the-badge" />
+
+------------------------------------------------------------------------------------------------------------------------
+   
+<strong>Databases</strong><br />
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
+<img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge" />
+<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
+<img alt="Clark" src="https://img.shields.io/badge/Clark-2A2A2A?logo=clark&logoColor=white&style=for-the-badge" />
+<img alt="Sanity" src="https://img.shields.io/badge/Sanity-000000?logo=sanity&logoColor=white&style=for-the-badge" />
+<img alt="Infura" src="https://img.shields.io/badge/Infura-383838?logo=infura&logoColor=white&style=for-the-badge" />
+
+------------------------------------------------------------------------------------------------------------------------
+
+<strong>Machine Learning and AI</strong><br />
+<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" />
+
+------------------------------------------------------------------------------------------------------------------------
+
+<strong>API Testing and Development</strong><br /> 
+<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
+
+------------------------------------------------------------------------------------------------------------------------
+
+<strong>Server Management</strong><br /> 
+<img alt="NGINX" src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white&style=for-the-badge" />
+<img alt="cPanel" src="https://img.shields.io/badge/cPanel-FFA500?logo=cpanel&logoColor=white&style=for-the-badge" />
+<img alt="FileZilla" src="https://img.shields.io/badge/FileZilla-BF0000?logo=filezilla&logoColor=white&style=for-the-badge" />
+<img alt="Custom Server Management" src="https://img.shields.io/badge/Custom%20Server%20Management-333333?logo=serverfault&logoColor=white&style=for-the-badge" />
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+<strong>Operating Systems</strong><br />
+<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
+<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" />
+<img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kali-linux&logoColor=white&style=for-the-badge" />
+
+------------------------------------------------------------------------------------------------------------------------
+
+<strong>Version Control</strong><br />
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+
+------------------------------------------------------------------------------------------------------------------------
+
+<strong>Others</strong><br />
+<img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge" />
+
+------------------------------------------------------------------------------------------------------------------------
+  
+  <strong>Authentication</strong>
+  <br />
+  <img alt="NextAuth.js" src="https://img.shields.io/badge/NextAuth.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
+
+------------------------------------------------------------------------------------------------------------------------
+  
+  <strong>Prototyping</strong><br />
+  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" />
+  
+------------------------------------------------------------------------------------------------------------------------
   
   <strong>Design and Multimedia:</strong>
-  <br /><br />
+  <br />
+  <img alt="Spline" src="https://img.shields.io/badge/Spline-FF4500?logo=spline&logoColor=white&style=for-the-badge" />
+ <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
   <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=for-the-badge" />
   <img alt="After Effects" src="https://img.shields.io/badge/After%20Effects-9999FF?logo=adobe-after-effects&logoColor=white&style=for-the-badge" />
   <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?logo=adobe-xd&logoColor=white&style=for-the-badge" />
@@ -80,44 +156,8 @@ I invite you to learn more about Jobajuba Digital Studio and our services by vis
   <img alt="Final Cut Pro" src="https://img.shields.io/badge/Final%20Cut%20Pro-FF6E4A?logo=final-cut-pro&logoColor=white&style=for-the-badge" />
   <img alt="Maya" src="https://img.shields.io/badge/Maya-313131?logo=autodesk&logoColor=white&style=for-the-badge" />
   <img alt="Cinema 4D" src="https://img.shields.io/badge/Cinema%204D-011A6A?logo=cinema-4d&logoColor=white&style=for-the-badge" />
-  
-  ------------------------------------------------------------------------------------------------------------------------
-  
-  <strong>Blockchain:</strong>
-  <br /> <br />
-  <img alt="Solidity" src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white&style=for-the-badge" />
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" />
-  <img alt="WEB3" src="https://img.shields.io/badge/Web3-7A93DE?logo=react&logoColor=white&style=for-the-badge" />
-  <img alt="MetaMask" src="https://img.shields.io/badge/MetaMask-E2761B?logo=metamask&logoColor=white&style=for-the-badge" />
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-7bf6c3?logo=aws&logoColor=white&style=for-the-badge" /> 
-  <img alt="INFURA" src="https://img.shields.io/badge/INFURA-00caf9?logo=infura&logoColor=white&style=for-the-badge" />
-  <img alt="MORALIS" src="https://img.shields.io/badge/MORALIS-40da49?logo=moralis&logoColor=white&style=for-the-badge" /> 
-  <img alt="SANITY" src="https://img.shields.io/badge/SANITY-b4a7d6?logo=sanity&logoColor=white&style=for-the-badge" />
- 
-  ------------------------------------------------------------------------------------------------------------------------
-  
-  <strong>Frameworks and Tools:</strong>
-  <br /><br />
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white&style=for-the-badge" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" />
-  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge" />
-  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" />
-  <img alt="Next" src="https://img.shields.io/badge/Next.js-430592?logo=react&logoColor=white&style=for-the-badge" />
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge" />
-  <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?logo=ruby-on-rails&logoColor=white&style=for-the-badge" /> 
-  <img alt="MySQL" src="https://img.shields.io/badge/SQL-cacaf9?logo=mysql&logoColor=white&style=for-the-badge" />
-  </p>
 </p>
 
-------------------------------------------------------------------------------------------------------------------------
-
-<strong>Stats:</strong>
-<br />  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jobajuba&theme=highcontrast&show_icons=true&locale=en&layout=compact" alt="jobajuba" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jobajuba&theme=highcontrast&show_icons=true&locale=en" alt="jobajuba" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jobajuba&theme=highcontrast&" alt="jobajuba" /></p>
 ------------------------------------------------------------------------------------------------------------------------
 
 <strong>Long Term Projects</strong>
