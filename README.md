@@ -170,10 +170,6 @@ I invite you to learn more about Jobajuba Digital Studio and our services by vis
 <img alt="Website" src="https://img.shields.io/website?color=%23CC99CC&down_color=orange&down_message=offline&label=YUMPIE&logo=Yumpie&logoColor=%23green&style=for-the-badge&up_color=green&up_message=ONLINE&url=https%3A%2F%2Fyumpie.app%2F">
 </a>
 
-![Yostudent showcase](https://github.com/jobajuba/yostudent-teamstream-vle/assets/22089733/45caa88b-eb85-4861-bcc5-dbfde5da2763)
-
-![wallet](https://github.com/jobajuba/yostudent-teamstream-vle/assets/22089733/587170db-5310-4a55-8a45-2735e96aa81a)
-
 <strong>Recruitment</strong>
 
 - We are constantly hiring Part-Time, Full-Time and Freelancers with various skill sets and levels:
