@@ -1,3 +1,5 @@
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jobajuba)](https://github.com/ryo-ma/github-profile-trophy)
 ------------------------------------------------------------------------------------------------------------------------
 
  <h2>👋 Hello and welcome! My name is Saloum Jobe, welcome to Jobajuba Digital Studio.</h2>
@@ -112,7 +114,6 @@ I invite you to learn more about Jobajuba Digital Studio and our services by vis
 <strong>Stats:</strong>
 <br />  
 [![Jobajuba: Vercel Stats](https://github-readme-stats.vercel.app/api?username=jobajuba&theme=highcontrast)](https://github.com/jobajuba)
-[![trophy](https://github-profile-trophy.vercel.app/?username=jobajuba)](https://github.com/ryo-ma/github-profile-trophy)
 
 ------------------------------------------------------------------------------------------------------------------------
 
