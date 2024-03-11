@@ -117,6 +117,8 @@ I invite you to learn more about Jobajuba Digital Studio and our services by vis
 ------------------------------------------------------------------------------------------------------------------------
 
 <strong>Operating Systems</strong><br />
+<img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" />
+<img alt="Apple" src="https://img.shields.io/badge/Apple-999999?logo=apple&logoColor=white&style=for-the-badge" />
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" />
 <img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kali-linux&logoColor=white&style=for-the-badge" />
