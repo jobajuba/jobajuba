@@ -122,6 +122,9 @@ I invite you to learn more about Jobajuba Digital Studio and our services by vis
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" />
 <img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kali-linux&logoColor=white&style=for-the-badge" />
+<img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge" />
+<img alt="VMware" src="https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=white&style=for-the-badge" />
+<img alt="Hyper-V" src="https://img.shields.io/badge/Hyper--V-0078D4?logo=hyper-v&logoColor=white&style=for-the-badge" />
 
 ------------------------------------------------------------------------------------------------------------------------
 
