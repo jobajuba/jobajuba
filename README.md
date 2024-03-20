@@ -138,9 +138,11 @@ I invite you to learn more about Jobajuba Digital Studio and our services by vis
 
 ------------------------------------------------------------------------------------------------------------------------
   
-  <strong>Authentication</strong>
-  <br />
-  <img alt="NextAuth.js" src="https://img.shields.io/badge/NextAuth.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
+<strong>Authentication</strong>
+<br />
+<img alt="NextAuth.js" src="https://img.shields.io/badge/NextAuth.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
+<img alt="Clerk" src="https://img.shields.io/badge/Clerk-000000?logo=clerk&logoColor=white&style=for-the-badge" />
+<img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-000000?logo=microsoft-sql-server&logoColor=white&style=for-the-badge" />
 
 ------------------------------------------------------------------------------------------------------------------------
   
