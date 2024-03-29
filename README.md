@@ -29,7 +29,7 @@ I invite you to learn more about Jobajuba Digital Studio and our services by vis
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jobajuba&theme=highcontrast&" alt="jobajuba" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jobajuba&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jobajuba)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ------------------------------------------------------------------------------------------------------------------------
