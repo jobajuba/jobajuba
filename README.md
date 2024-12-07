@@ -197,7 +197,7 @@ Discover how our expertise can transform your business. Visit our website or con
 
 <strong>Recruitment</strong>
 
-- We are constantly hiring Part-Time, Full-Time and Freelancers with various skill sets and levels:
+- We are hiring Part-Time, Full-Time and Freelancers with various skill sets and levels:
 
 <p>
  <a href="https://jobajuba.com/" />
