@@ -79,13 +79,11 @@ Discover how our expertise can transform your business. Visit our website or con
   <strong>Frameworks and Libraries</strong>
 <br /> 
 <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white&style=for-the-badge" />
-<img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge" />
 <img alt="Next.js" src="https://img.shields.io/badge/Next.js-430592?logo=react&logoColor=white&style=for-the-badge" />
 <img alt="React.js" src="https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
 <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" />
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
 <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge" />
-<img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
 <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge" />
 <img alt="C#" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
