@@ -103,7 +103,7 @@ Discover how our expertise can transform your business. Visit our website or con
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
 <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge" />
 <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
-<img alt="Clark" src="https://img.shields.io/badge/Clark-2A2A2A?logo=clark&logoColor=white&style=for-the-badge" />
+<img alt="GetStream.io" src="https://img.shields.io/badge/GetStream.io-2A2A2A?logo=getstream&logoColor=white&style=for-the-badge" />
 <img alt="Sanity" src="https://img.shields.io/badge/Sanity-000000?logo=sanity&logoColor=white&style=for-the-badge" />
 <img alt="Infura" src="https://img.shields.io/badge/Infura-383838?logo=infura&logoColor=white&style=for-the-badge" />
 
