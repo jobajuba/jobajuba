@@ -91,19 +91,10 @@ With 15+ years of experience, I help organizations adopt scalable, future-ready 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jobajuba&show_icons=true&theme=highcontrast&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jobajuba&theme=highcontrast&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobajuba&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages" width="40%" />
-</div>
 
-<br />
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jobajuba&theme=onedark&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
-</div>
 
 ---
 
