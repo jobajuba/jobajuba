@@ -90,8 +90,27 @@ With 15+ years of experience, I help organizations adopt scalable, future-ready 
 
 ## 📊 GitHub Stats
 
+<!-- Profile Summary Cards (multiple cards) -->
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jobajuba&theme=highcontrast)
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jobajuba&theme=highcontrast&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jobajuba&theme=highcontrast" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jobajuba&theme=highcontrast" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jobajuba&theme=highcontrast" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jobajuba&theme=highcontrast" width="48%" />
+</div>
+
+<!-- Activity Graph -->
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jobajuba&theme=high-contrast)
+
+<!-- Badges Row -->
+<div align="center">
+  <img src="https://img.shields.io/github/followers/jobajuba?style=for-the-badge&logo=github&color=blue" />
+  <img src="https://img.shields.io/github/stars/jobajuba?style=for-the-badge&logo=github&color=yellow" />
+  <img src="https://img.shields.io/github/forks/jobajuba?style=for-the-badge&logo=github&color=green" />
 </div>
 
 
